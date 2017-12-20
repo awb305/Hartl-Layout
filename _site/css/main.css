@@ -289,6 +289,7 @@ p {
 }
 .footer-nav a {
   color: #ccc;
+  text-decoration: none;
 }
 
 /* COLUMN STYLES */
