@@ -1,3 +1,5 @@
+<!-- the body is the flex container and the "content-container" is the flex item -->
+
 <!DOCTYPE html>
 
 <html>
@@ -6,7 +8,9 @@
   <body>
     {% include header.html %}
 
-    {{ content }}
+    <div class="content-container">
+      {{ content }}
+    </div>
 
 
     {% include footer.html %}
