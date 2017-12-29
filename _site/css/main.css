@@ -351,7 +351,7 @@ p {
   padding-top: 10vh;
 }
 .hero-home {
-  background-image: url("https://awb305.github.io/Hartl-Layout/images/shark.jpg");
+  background-image: url("http://localhost:4000/images/shark.jpg");
   background-position: center top;
 }
 
